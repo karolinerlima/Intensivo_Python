@@ -1,1 +1,3 @@
-<h1>Repositori criado para armazenar código de Intensivo Python</h1>
+<h1> Intensivo Python </h1>
+
+<p> Aprendendo sobre Variaveis</p>
