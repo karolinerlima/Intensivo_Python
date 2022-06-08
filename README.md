@@ -5,4 +5,5 @@
 <p>3 - Aprendendo sobre Números</p>
 <p>4 - Zen = Now is better than never </p>
 <p>5 - Aprendendo sobre Listas</p>
+<p>6 - Aprendendo sobre Laço For</p>
 
