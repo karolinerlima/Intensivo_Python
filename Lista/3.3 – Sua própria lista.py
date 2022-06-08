@@ -6,7 +6,5 @@ uma moto Honda”.
 
 """
 
-
-
 transporte = ['carro', 'moto','avião']
 print(f'Gostaria de comprar um {transporte[0]}\nGostaria de uma {transporte[1]}\nGostaria de andar de {transporte[2]}')
