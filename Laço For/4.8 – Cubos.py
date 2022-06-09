@@ -5,3 +5,11 @@ primeiros cubos (isto é, o cubo de cada inteiro de 1 a 10), e utilize um laço 
 para exibir o valor de cada cubo.
 
 """
+
+
+valores=[]
+for valor in range (1,11):
+        squares = valor**3
+        valores.append(squares)
+        print(squares)
+    
