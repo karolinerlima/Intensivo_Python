@@ -9,7 +9,14 @@ três itens do meio da lista.
 exibir os três últimos itens da lista
 """
 
-
-
 lista = ['Karol', 'Davi', 'Sophia', 'Roseli','Wagner','Luana', 'Josi','Allison','Lucas','Andre']
-
+print('Os tres primeiros:')
+for listas in lista [:3]:
+    print((listas.title()))
+print('Do meio:')
+for listas in lista[3:6]:
+    print(listas.title())
+print('Final:')
+for listas in lista[6:9]:
+    print(listas.title())
+print(f'Ultimo: \n{lista[9]}')
